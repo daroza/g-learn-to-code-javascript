@@ -13,7 +13,7 @@ confirm('Can you hear me now?');*/
 
 
 
-[YOUR CODE HERE]
+//[YOUR CODE HERE]
 
 
 
@@ -28,7 +28,7 @@ STEP 2: Write an if/else statement using the value of the variable 'proceed' as 
 
 
 
-[YOUR CODE HERE]
+//[YOUR CODE HERE]
 
 
 
@@ -37,7 +37,7 @@ Describe their environment and give them 2 options such as left or right.*/
 
 
 
-[YOUR CODE HERE]
+//[YOUR CODE HERE]
 
 
 
@@ -55,7 +55,7 @@ didn't give a valid response.*/
 
 
 
-[YOUR CODE HERE]
+//[YOUR CODE HERE]
 
 
 
@@ -63,7 +63,7 @@ didn't give a valid response.*/
 
 
 
-[YOUR CODE HERE]
+//[YOUR CODE HERE]
 
 
 
